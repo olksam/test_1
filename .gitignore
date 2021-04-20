@@ -1,0 +1,10 @@
+node_modules
+cypress/videos
+cypress/plugins
+cypress/screenshots
+cypress/support
+**/bin
+**/obj
+**/.idea
+**/log.txt
+**/transactions.db
